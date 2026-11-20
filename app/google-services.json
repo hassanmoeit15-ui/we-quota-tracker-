@@ -1,0 +1,57 @@
+{
+
+  "project_info": {
+
+    "project_number": "502985481124",
+
+    "project_id": "we-quota-home",
+
+    "storage_bucket": "we-quota-home.firebasestorage.app"
+
+  },
+
+  "client": [
+
+    {
+
+      "client_info": {
+
+        "mobilesdk_app_id": "1:502985481124:android:644db765a72d6658abff31",
+
+        "android_client_info": {
+
+          "package_name": "com.wequota.tracker"
+
+        }
+
+      },
+
+      "oauth_client": [],
+
+      "api_key": [
+
+        {
+
+          "current_key": "AIzaSyBHwiz0KOY9oPcMAtad9-4QHK-Xb-BFQj4"
+
+        }
+
+      ],
+
+      "services": {
+
+        "appinvite_service": {
+
+          "other_platform_oauth_client": []
+
+        }
+
+      }
+
+    }
+
+  ],
+
+  "configuration_version": "1"
+
+}
